@@ -1,4 +1,4 @@
-$primary-color: #3b7b3a;
+$primary-color: #3a6a7b;
 $secondary-color: #fbbc05;
 $font-stack: Helvetica, sans-serif;
 
@@ -43,7 +43,7 @@ nav {
     li {
         float: left;
         a {
-            display: block; color: white; text-align: center; padding: 8px 16px;
+            display: block; color: rgb(255, 255, 255); text-align: center; padding: 8px 16px;
             text-decoration: none;
             &:hover:not(.active) {
                 background-color: $secondary-color;
