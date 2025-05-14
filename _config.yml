@@ -1,7 +1,6 @@
 url: 'https://github.com/Bunga-hub'
 
-plugins:
+plugins: 
  - jekyll-feed
  - jekyll-sitemap
  - jekyll-seo-tag
- 
